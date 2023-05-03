@@ -32,6 +32,7 @@ public class ExcelRead {
 }
 	catch (Exception e) {
 		System.out.println(e.toString());
-	}	
+	}
+	System.out.println("Succesfully read")	
 	}
 }
